@@ -29,6 +29,7 @@ To make the most of this resource:
 
 ## Resources for more courses
 - Simplilearn
+- Hp life/Hp foundation
 
 ## Contributing
 Contributions to improve this introduction or add new content are welcome! Please feel free to submit issues or pull requests.
